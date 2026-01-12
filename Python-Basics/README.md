@@ -1,6 +1,6 @@
 Python is a popular programming language created by Guido Van Rossum in 1991.
 
-## Usauge
+## Usage
 - Web Development(Server-side(Flask,FastAPi,Django))
 - Software Development
 - Mathematics
